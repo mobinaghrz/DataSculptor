@@ -1,0 +1,44 @@
+Random Characters:
+   aBcDeFgHiJkLmNoPqRsTuVwXyZ
+   0123456789
+   !@#$%^&*()_+-=[]{};':",.<>/?\|`~
+
+Repeated Patterns:
+   abcabcabcabcabc
+   123123123123123
+   !@#!@#!@#!@#!@#
+
+Long Strings:
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Special Sequences:
+   \n\t\r\b\f\\\"\'
+   \x41\x42\x43\x44\x45 (Hex values)
+
+Mixed Data:
+   ABC123!@#
+   abc456$%^
+   XYZ789&*()
+
+Large Numbers:
+   1234567890123456789012345678901234567890
+   9876543210987654321098765432109876543210
+
+Binary-Like Data:
+   01010101010101010101010101010101
+   10101010101010101010101010101010
+
+JSON-Like Data:
+   {
+       "name": "DataSculptor",
+       "version": "1.0",
+       "features": ["Huffman Encoding", "Markov Model", "Adaptive Compression"]
+   }
+
+XML-Like Data:
+   <root>
+       <element1>Value1</element1>
+       <element2>Value2</element2>
+       <element3>Value3</element3>
+   </root>
