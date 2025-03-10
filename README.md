@@ -24,6 +24,7 @@ DataSculptor is an adaptive data compression tool that combines **Huffman Encodi
    git clone https://github.com/your-username/DataSculptor.git
    cd DataSculptor
 
+
 2. Build the project using CMake:
    ```bash
    mkdir build
