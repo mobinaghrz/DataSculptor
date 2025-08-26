@@ -1,6 +1,7 @@
 # DataSculptor
 DataSculptor
 
+
 # DataSculptor: Intelligent Data Compression Using Huffman Encoding and Machine Learning
 
 ## Overview
