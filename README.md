@@ -4,9 +4,11 @@ DataSculptor
 # DataSculptor: Intelligent Data Compression Using Huffman Encoding and Machine Learning
 
 ## Overview
+
 DataSculptor is an adaptive data compression tool that combines **Huffman Encoding** with **Machine Learning** to optimize compression efficiency. It learns patterns in files (text, images, etc.) and dynamically adjusts the Huffman tree weights for better compression. This project showcases the power of combining classic algorithms with modern machine learning techniques.
 
 ## Features
+
 - **Huffman Encoding**: Optimal encoding based on character frequency.
 - **Machine Learning**: Uses LSTM or Markov Chains to predict common patterns in files.
 - **Adaptive Compression**: Dynamically adjusts Huffman tree weights based on ML predictions.
