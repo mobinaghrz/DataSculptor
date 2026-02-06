@@ -33,3 +33,4 @@ DataSculptor is an adaptive data compression tool that combines **Huffman Encodi
    cd build
    cmake ..
    make
+
